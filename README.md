@@ -8,6 +8,5 @@ GwtQuery is easy to learn for those using jQuery as they share the same api, adi
 Currently, almost the jQuery API is written and all CSS3 selectors should be supported. 
 
 
-We are working in a brand new web site, in the meanwhile for more information/documentation
-visit gQuery wiki pages at : https://code.google.com/p/gwtquery/
+The documentation is available (here)[http://dev.arcbees.com/gquery]
 
